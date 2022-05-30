@@ -1,7 +1,7 @@
-<!DOCTYPE html>
+
 <html>
 <head>
-	<title>welcome</title>
+	<title>welcome to java script</title>
 	<style type="text/css">
 		p{
 			font-size: 30px;
