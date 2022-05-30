@@ -26,7 +26,7 @@ Majnun was overcome with grief and abandoned his home and family and disappeared
 
 The news of this marriage was devastating to Majnun who continued to live a life of solitude, refusing to return home to his mother and father in the city.
 
-Majnun’s mother and father missed their son terribly and longed every day for his safe return home. They would leave food for him at the bottom of the garden in the hopes that one day he would come back to them out of the desert. But Majnun remained in the wilderness, writing his poetry in solitude, never speaking to a single soul.</i></b>
+Majnun’s mother and father missed their son terribly and longed every day for his safe return home. They would leave food for him at the bottom of the garden in the hopes that one day he would come back to them out of the desert. But Majnun remained in the wilderness, writing his poetry in solitude, never speaking to a single soul.</b></i>
 		</p>
 		<button style="background: red;font-size: 20px;" onclick="red()">RED</button>
 		<button style="background: skyblue;font-size: 20px;" onclick="skyblue()">SKYBLUE</button>
