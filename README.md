@@ -17,7 +17,7 @@
 	<center>
 		<h1 style="color: red;background: cyan; font-size: 40px;"><b><i><marquee behavior="alternate">INSPIRATIONS OF LAYLA MAJNUN</marquee></i></b></h1> 
 		<div>
-		<p style="border-style: dashed; border-color: purple;" id="p2"><i>
+		<p style="border-style: dashed; border-color: purple;" id="p2"><i><b>
 			Qays ibn al-Mulawwah was just a boy when he fell deeply in love with Layla Al-Aamiriya. He was sure of this love on the very first day he laid eyes upon her at school. He soon began to write beautiful love poems about Layla and he would read them out loud on street corners to anybody who would care to listen. Such passionate displays of love and devotion caused many to refer to the boy as Majnun, meaning madman.
 
 One day, Majnun found the courage to ask Layla’s father for his daughter’s hand in marriage, but her father refused the request. Such a marriage, the father reasoned, would only cause a scandal. It would not be proper for his daughter to marry a person whom everybody called 'madman'. Instead, Layla was promised to another.
@@ -26,7 +26,7 @@ Majnun was overcome with grief and abandoned his home and family and disappeared
 
 The news of this marriage was devastating to Majnun who continued to live a life of solitude, refusing to return home to his mother and father in the city.
 
-Majnun’s mother and father missed their son terribly and longed every day for his safe return home. They would leave food for him at the bottom of the garden in the hopes that one day he would come back to them out of the desert. But Majnun remained in the wilderness, writing his poetry in solitude, never speaking to a single soul.</i>
+Majnun’s mother and father missed their son terribly and longed every day for his safe return home. They would leave food for him at the bottom of the garden in the hopes that one day he would come back to them out of the desert. But Majnun remained in the wilderness, writing his poetry in solitude, never speaking to a single soul.</i></b>
 		</p>
 		<button style="background: red;font-size: 20px;" onclick="red()">RED</button>
 		<button style="background: skyblue;font-size: 20px;" onclick="skyblue()">SKYBLUE</button>
