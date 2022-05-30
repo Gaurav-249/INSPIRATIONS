@@ -17,7 +17,7 @@
 	<center>
 		<h1 style="color: red;background: cyan; font-size: 40px;"><b><i><marquee behavior="alternate">INSPIRATIONS OF LAYLA MAJNUN</marquee></i></b></h1> 
 		<div>
-		<p id="p2"><i>
+		<p style="border-style: dashed; border-color: purple;" id="p2"><i>
 			Qays ibn al-Mulawwah was just a boy when he fell deeply in love with Layla Al-Aamiriya. He was sure of this love on the very first day he laid eyes upon her at school. He soon began to write beautiful love poems about Layla and he would read them out loud on street corners to anybody who would care to listen. Such passionate displays of love and devotion caused many to refer to the boy as Majnun, meaning madman.
 
 One day, Majnun found the courage to ask Layla’s father for his daughter’s hand in marriage, but her father refused the request. Such a marriage, the father reasoned, would only cause a scandal. It would not be proper for his daughter to marry a person whom everybody called 'madman'. Instead, Layla was promised to another.
