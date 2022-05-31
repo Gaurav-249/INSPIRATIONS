@@ -1,14 +1,15 @@
 
 <html>
 <head>
-	<title>welcome to java script</title>
+	<title>welcome</title>
 	<style type="text/css">
 		p{
 			font-size: 30px;
+			border: 8px;
 		}
 		div{
 			text-align: center;
-			border: 1px solid: black;
+			border: 15px solid: black;
 		}
 		.myDiv {
   border: 10px outset red;  
@@ -18,16 +19,15 @@ h2{
 	font-size: 30px;
 	color: mediumseagreen;
 	background-color: hotpink;
-	}		
+	}
 	</style>
 </head>
 <body>
 	<center>
-		<h1 style="color: red;background: cyan; font-size: 40px;"><b><i><marquee behavior="alternate">INSPIRATIONS OF LAYLA MAJNUN</marquee></i></b></h1> 
+		<h1 style="color: red;background: cyan; font-size: 40px;"><i><marquee behavior="alternate">INSPIRATIONS OF LAYLA MAJNUN</marquee></i></h1> 
 		<div>
-						<div class="myDiv">
-							<fieldset><h2><i><b>IT'S VERY ATTRACTIVE POETRY PLEASE READ IT.</b></i></h2>
-			<fieldset>
+			<div class="myDiv">
+			<fieldset><h2><i><b>IT'S VERY ATTRACTIVE POETRY PLEASE READ IT.</b></i></h2>
 		<p style="border-style: double; border-color: purple;" id="p2"><i><b>
 			Qays ibn al-Mulawwah was just a boy when he fell deeply in love with Layla Al-Aamiriya. He was sure of this love on the very first day he laid eyes upon her at school. He soon began to write beautiful love poems about Layla and he would read them out loud on street corners to anybody who would care to listen. Such passionate displays of love and devotion caused many to refer to the boy as Majnun, meaning madman.
 
@@ -61,8 +61,10 @@ Majnun’s mother and father missed their son terribly and longed every day for 
 				document.getElementById('p2').style.color="green"
 			}
 		</script>
-				</fieldset>
-							</div>
+
+	</fieldset>
+</div>
+
 	</div>
 	
 		</center>
