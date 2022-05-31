@@ -11,7 +11,7 @@
 			border: 1px solid: black;
 		}
 		.myDiv {
-  border: 15px outset red;  
+  border: 10px outset red;  
   text-align: center;
 }
 		
